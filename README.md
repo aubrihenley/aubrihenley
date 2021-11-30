@@ -3,9 +3,10 @@
 <!--
 **aubrihenley/aubrihenley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on a full-stack React application using MongoDb and GraphQL to deliver photo sharing site for public artworks.
+- 🔭 I’m currently learning Java and C# on Codecademy.
+- 🎉 Completed my Full-Stack Web Developer 24 week boot camp through UNC Chapel Hill(11-20-2021).
 - 📫 How to reach me: aubri.henley@gmail.com
-- 😄 Pronouns: she/her
+- ✨ Pronouns: she/her
 - ⚡ Fun fact: When I'm not coding I am either crocheting, rollerskating, or hanging out with my kiddos!
 
 
